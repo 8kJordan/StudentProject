@@ -1,3 +1,5 @@
+// Class that prints and validates user input relating to the main menu that is displayed inside of the console
+
 package examTwoComposite;
 
 import java.util.*;
