@@ -1,5 +1,7 @@
 // Source Code written by Neil Elkadi in conjunction with Jordan Sanchez AND Ahmed Rami
 // Source Code written between March 8th and March 12th
+// Composite Student class that validates GPA and credits, while also integratinng and validating the Date and Name classes.
+
 
 package examTwoComposite;
 
@@ -37,7 +39,7 @@ public class Student {
 			for (Student person : list)
 				System.out.println(person.toString() + "\n");
 	}
-
+	
 	public static ArrayList<Student> deleteStudent(ArrayList<Student> list) {
 		System.out.print("Enter index of student to delete: ");
 		try {
