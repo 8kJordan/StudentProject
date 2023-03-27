@@ -1,6 +1,6 @@
 // Source Code written by Jordan Sanchez in conjunction with Neil Eldaki AND Ahmed Rami
 // Source Code written between March 8th and March 12th
-
+// Class that validates all fields needed for an effective Date class, will be integrated inside of Student composite class
 
 package examTwoComposite;
 
